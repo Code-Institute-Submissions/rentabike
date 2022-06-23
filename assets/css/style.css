@@ -44,3 +44,30 @@ h1, h2 {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
+#cover-image, #cover-text h2 {
+            color: #3a3a3a;
+}
+#custom-image {
+    height: 900px;
+    width: 100%;
+    background: url('../images/pexels-pixabay-258092.jpg') no-repeat center center;
+}
+#cover-text {
+    font-size: 130%;
+    font-family: Anek Malayalam, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 300px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: orangered;
+
+    bottom: 200px;
+    left: 30px;
+
+    position: absolute;
+}
