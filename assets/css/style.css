@@ -5,6 +5,18 @@
     border: none;
 }
 body {
-    font-family: Charis+SIL, sans-serif;
+    font-family: Charis SIL, sans-serif;
     font-weight: 300;
+    color: #ff4500;
+}
+h1, h2 {
+    font-family: Anek Malayalam, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #ff4500;
+    
+}
+#logo {
+    float: left;
+    font-size: 280%;
 }
