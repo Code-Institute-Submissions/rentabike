@@ -19,6 +19,7 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 280%;
+    margin-left: 250px;
 }
 #menu{
     font-size: 110%;
@@ -64,10 +65,25 @@ h1, h2 {
     padding-top: 40px;
     padding-left: 10px;
 
-    background-color: orangered;
+    background-color: #ff4500;
 
     bottom: 200px;
     left: 30px;
 
     position: absolute;
+}
+#custom-text {
+    height: 300px;
+}
+#left-about {
+    padding-top: 20px;
+    width: 77%;
+    float: left;
+    background-color: black;
+}
+#right-about {
+    width: 33%;
+    float: right;
+    padding-top: 30px;
+background-color: #ff4500;
 }
