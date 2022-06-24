@@ -159,3 +159,26 @@ footer {
         line-height: 25px;
     }
 }
+#cover-text {
+    left: 0;
+}
+
+#custom-images {
+    width: 90%;
+    height: 1200px;
+    margin: 0 auto;
+}
+
+.left-about-heading {
+    width: inherit;
+}
+
+.left-about-heading h2 {
+    width: 100%;
+    text-align: center;
+}
+
+.left-about-heading p {
+    text-align: center;
+    padding: 0 20px;
+}
