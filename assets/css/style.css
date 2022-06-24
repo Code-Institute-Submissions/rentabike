@@ -96,3 +96,24 @@ h1, h2 {
     padding-top: 400px;
     padding-left: 100px;
 }
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    background-color: black;
+    padding-top: 20px;
+    width: 69%;
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #ffffff;
+}
